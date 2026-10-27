@@ -1,0 +1,16 @@
+{
+  "name": "launch-checklist",
+  "version": "0.1.0",
+  "description": "Before and after a launch: measurement, legal pages, store listing, announcement, feedback channel and rollback plan, with evidence for every item.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/launch-checklist",
+  "repository": "https://github.com/nvv-dev/launch-checklist",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "growth-workflow"
+  ]
+}
